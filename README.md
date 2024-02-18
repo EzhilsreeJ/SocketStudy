@@ -17,9 +17,13 @@ where reliability is less critical.
 1.Sockets
 
 •	A socket is a software representation of a communication endpoint in a network.
+
 •	It is identified by an IP address and a port number.
+
 •	Sockets can be classified into two main types: Stream Sockets and Datagram Sockets.
+
 •	Stream Sockets provide a reliable, connection-oriented communication, while Datagram
+
 Sockets are connectionless and operate in a best-effort mode.
 
 2. Client-Server Model
@@ -30,7 +34,7 @@ to the server.
 •	Servers are passive, waiting for connection requests, and clients are active, initiating
 communication.
 
-3, TCP/IP Protocol:
+3. TCP/IP Protocol:
 
 •	Transmission Control Protocol (TCP) and Internet Protocol (IP) are the foundational protocols
 for socket programming.
